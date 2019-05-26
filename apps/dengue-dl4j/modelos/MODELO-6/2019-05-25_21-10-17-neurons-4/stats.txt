@@ -1,0 +1,7 @@
+Column    MSE            MAE            RMSE           RSE            PC             R^2            
+col_0     4.83906e-04    1.51072e-02    2.19979e-02    3.33181e-01    8.50981e-01    6.66819e-01    
+
+
+averageMeanAbsoluteError: 0.015107181136651585
+averageMeanSquaredError: 4.839055997335843E-4
+averagerootMeanSquaredError: 0.02199785443477578

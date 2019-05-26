@@ -1,0 +1,31 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Tocantins
+Notificações por Mês 1º Sintoma(s) e Classifica. Final
+Município de residência: 172100 Palmas
+Período:2005
+"Mês 1º Sintoma(s)";"Ign/Ñ preenchido";"Dengue Clássico";"Total"
+"Janeiro";-;17;17
+"Fevereiro";-;79;79
+"Março";1;170;171
+"Abril";-;318;318
+"Maio";-;548;548
+"Junho";-;244;244
+"Julho";-;55;55
+"Agosto";-;17;17
+"Setembro";-;7;7
+"Outubro";-;2;2
+"Novembro";-;4;4
+"Dezembro";-;25;25
+"Total";1;1486;1487
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan 
+ Notas:
+ 
+ Incluídas notificações de indivíduos residentes no Brasil, independente de sua confirmação, exceto os descartados,
+    pois em situações de epidemia nem sempre é possível confirmar todos os casos.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular dados em série histórica selecione na linha a variável de interesse, na Coluna Ano dos 1ºs sintomas;
+    em Períodos Disponíveis assinale o ano inicial da série e todos os posteriores até o ano atual (p/ incluir casos notificados
+    com atraso) e em Seleções Disponíveis assinale os anos dos 1ºs sintomas (ex: série histórica de nº de casos, 2001 a 2005:
+    selecione na linha UF de residência, na Coluna Ano de 1ºs sintomas, em Períodos disponíveis-2001 até o ano atual e
+    em Seleções assinale Ano de 1ºs sintomas de 2001 a 2005).
+ Para cálculo da incidência utilize locais de residência.
+ 
